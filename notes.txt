@@ -19,6 +19,7 @@ whole computer instead of just the directory.
 git config --global user.name "My Name"
 git config --global user.email me@somewhere.com
 git config --global color.ui auto
+git config --global core.editor nano
 ```
 
 ## Intitialization
