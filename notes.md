@@ -1,3 +1,5 @@
+![Overview](workflow.svg)
+
 # Overview of git
 
 Git consists of three parts
