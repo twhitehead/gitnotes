@@ -1,4 +1,4 @@
-![Overview](workflow.svg)
+![Overview](workflow.png)
 
 # Overview of git
 
